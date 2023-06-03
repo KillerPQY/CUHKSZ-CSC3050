@@ -1,0 +1,9 @@
+﻿  simulator.cpp
+C:\Users\24984\Desktop\CSC3050\CSC3050 Ass\Ass2\Project1\Project1\simulator.cpp(83,36): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+C:\Users\24984\Desktop\CSC3050\CSC3050 Ass\Ass2\Project1\Project1\simulator.cpp(335,41): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+C:\Users\24984\Desktop\CSC3050\CSC3050 Ass\Ass2\Project1\Project1\simulator.cpp(343,24): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\24984\Desktop\CSC3050\CSC3050 Ass\Ass2\Project1\Project1\simulator.cpp(345,32): warning C4244: “+=”: 从“double”转换到“unsigned int”，可能丢失数据
+C:\Users\24984\Desktop\CSC3050\CSC3050 Ass\Ass2\Project1\Project1\simulator.cpp(396,17): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+C:\Users\24984\Desktop\CSC3050\CSC3050 Ass\Ass2\Project1\Project1\simulator.cpp(443,18): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+C:\Users\24984\Desktop\CSC3050\CSC3050 Ass\Ass2\Project1\Project1\simulator.cpp(674,42): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+  Project1.vcxproj -> C:\Users\24984\Desktop\CSC3050\CSC3050 Ass\Ass2\Project1\x64\Debug\Project1.exe
